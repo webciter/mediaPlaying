@@ -1,0 +1,24 @@
+{
+  "name": "media_element-property-media_playing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mediaPlaying.js",
+  "dependencies": {
+   
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webciter/mediaPlaying.git"
+  },
+  "keywords": [
+    "media","video","audio","playing"
+  ],
+  "author": "David Clews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webciter/mediaPlaying/issues"
+  },
+  "homepage": "https://github.com/webciter/mediaPlaying#readme"
+}
